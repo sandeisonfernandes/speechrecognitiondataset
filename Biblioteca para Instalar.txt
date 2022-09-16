@@ -1,0 +1,24 @@
+IDE : PYCHARME 2022.2
+CRIAMOS UM AMBIENTE VIRTUAL E ADICIONAMOS AS BIBLIOTECAS
+
+
+pip install SpeechRecognition
+
+pip install gTTS
+
+pip install torch
+
+pip install playsound
+
+
+pip install PyAudio
+
+
+BIBLIOTECA PARA ABRIR E GRAVAR DADOS NA TABELA DO EXCEL
+pip install o openpyxl
+
+
+
+
+
+
